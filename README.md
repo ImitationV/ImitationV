@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fahim</h1>
+<h1 align="center">Hi 👋, I'm Fahim N.</h1>
 <h3 align="center">Passionate about all things data: ML, analysis, and visualization.</h3>
 
 - 💬 Ask me about **Data, Machine Learning**
