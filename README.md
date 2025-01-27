@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fahim</h1>
-<h3 align="center">A Data enthusiast with a passion for Machine Learning. Also, passionate about data analysis and visualization.</h3>
+<h3 align="center">Passionate about all things data: ML, analysis, and visualization.</h3>
 
 - 💬 Ask me about **Data, Machine Learning**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Check my works:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fahimnaytik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahimnaytik" height="30" width="40" /></a>
 <a href="https://kaggle.com/fahimn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fahimn" height="30" width="40" /></a>
 </p>
 
